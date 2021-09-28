@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.956fad23.chunk.css",
-    "main.js": "/home/static/js/main.44242edc.chunk.js",
-    "main.js.map": "/home/static/js/main.44242edc.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.c71ad327.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.c71ad327.js.map",
-    "static/js/2.feeefc50.chunk.js": "/home/static/js/2.feeefc50.chunk.js",
-    "static/js/2.feeefc50.chunk.js.map": "/home/static/js/2.feeefc50.chunk.js.map",
-    "index.html": "/home/index.html",
-    "precache-manifest.45a01ef3897c605b59bb8d051779bb2f.js": "/home/precache-manifest.45a01ef3897c605b59bb8d051779bb2f.js",
-    "service-worker.js": "/home/service-worker.js",
-    "static/css/main.956fad23.chunk.css.map": "/home/static/css/main.956fad23.chunk.css.map",
-    "static/js/2.feeefc50.chunk.js.LICENSE.txt": "/home/static/js/2.feeefc50.chunk.js.LICENSE.txt",
-    "static/media/creative.png": "/home/static/media/creative.624669b6.png",
-    "static/media/kasun.jpg": "/home/static/media/kasun.2ecb22ad.jpg",
-    "static/media/resume.pdf": "/home/static/media/resume.7b7ed51f.pdf"
+    "main.css": "/static/css/main.956fad23.chunk.css",
+    "main.js": "/static/js/main.8b4ba9a3.chunk.js",
+    "main.js.map": "/static/js/main.8b4ba9a3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.feeefc50.chunk.js": "/static/js/2.feeefc50.chunk.js",
+    "static/js/2.feeefc50.chunk.js.map": "/static/js/2.feeefc50.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7df173026a455dced083fcecfcf1f17f.js": "/precache-manifest.7df173026a455dced083fcecfcf1f17f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.956fad23.chunk.css.map": "/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.feeefc50.chunk.js.LICENSE.txt": "/static/js/2.feeefc50.chunk.js.LICENSE.txt",
+    "static/media/creative.png": "/static/media/creative.624669b6.png",
+    "static/media/kasun.jpg": "/static/media/kasun.2ecb22ad.jpg",
+    "static/media/resume.pdf": "/static/media/resume.7b7ed51f.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.c71ad327.js",
+    "static/js/runtime-main.19ccc7f6.js",
     "static/js/2.feeefc50.chunk.js",
     "static/css/main.956fad23.chunk.css",
-    "static/js/main.44242edc.chunk.js"
+    "static/js/main.8b4ba9a3.chunk.js"
   ]
 }
